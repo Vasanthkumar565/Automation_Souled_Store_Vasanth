@@ -5,6 +5,7 @@
     <classes>
       <class name="souledstore.Baseclass_souledstore">
         <methods>
+          <include name="Add_to_cart"/>
           <include name="moved_to_cart"/>
           <include name="endtest"/>
           <include name="setup"/>
